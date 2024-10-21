@@ -1,5 +1,5 @@
 ## Hi there 👋 Arpiztech 
-[![MasterHead](https://wallpapercave.com/wp/wp9641787.jpg)]
+![MasterHead](https://wallpapercave.com/wp/wp9641787.jpg)
 <h1 align="center">Hi 👋, I'm Arpiztech</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt="coding" width="400" src="https://media.tenor.com/IF2JdxzmyN4AAAAi/coding-girl.gif">
