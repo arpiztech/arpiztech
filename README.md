@@ -1,6 +1,7 @@
 ## Hi there 👋 I'm Arpiztech!
 
-![MasterHead](https://wallpapercave.com/wp/wp9641787.jpg)
+![MasterHead](<img width="1258" height="322" alt="readmeimage" src="https://github.com/user-attachments/assets/a2f33882-a967-4208-bcdf-2dbd96a6929a" />
+)
 
 <h1 align="center">Hi 👋, I'm Arpiztech</h1>
 <h3 align="center">A passionate Frontend Developer from India</h3>
